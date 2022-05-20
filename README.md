@@ -2,7 +2,6 @@
 
 - 🔭 Sou desenvolvedora C#
 - 🌱 Cursando Análise e Desenvolvimento de sistemas no IFSC
-- 📫 E-mail: nana.pfau@gmail.com
 
 <div align = center>
   <a href="https://github.com/nathaliepfau">
